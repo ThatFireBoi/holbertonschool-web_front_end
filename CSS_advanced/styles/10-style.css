@@ -29,10 +29,6 @@ a {
     color: var(--color-primary);
 }
 
-.section-header-align {
-    text-align: center;
-}
-
 .section-header {
     text-align: var(--section-header-align);
 }
@@ -60,4 +56,5 @@ a {
     --line-height-small: 1.2;
     --line-height-base: 1.5;
     --line-height-big: 1.8;
+    --section-header-align: center;
 }
